@@ -13,6 +13,7 @@ automatically trigger email notifications to healthcare administrators. The proj
 real-time data streaming, backend APIs, and dashboard visualization in solving real-world healthcare monitoring challenges.
 
 #Technical structure
+
 1)Install Python, required libraries, Apache Kafka, and PostgreSQL, and configure the environment.
 
 2)Set up Kafka producers to stream real-time patient vital signs data.
